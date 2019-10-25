@@ -1,0 +1,25 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+h1,h2,h3,h4,h5,h6{ margin-bottom: 15px;}
+p{margin-bottom: 15px;}
+
+
+/* .container{width: 800px; margin: auto;}
+.row{margin-left: -15px; margin-right: -15px;}
+
+
+
+.col-6{width: 50%; float: left;}
+
+.product-description {
+    display: block;
+    margin-bottom: 100%;
+    padding-top: 50px;
+
+} */
+
+.single_list {
+    background: #fff;
+    box-shadow: 0 1px 7px 1px rgba(0, 0, 0, 0.22);
+    padding: 20px 10px;
+}
+
